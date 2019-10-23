@@ -1,7 +1,7 @@
 ---
 author: ankouros
 title: "Touch Screen"
-image_url: /images/arduino_uno.jpg
+image_url: /images/Touch_screen.jpg
 caption: "Η οθόνη αφής είναι μια συσκευή εισόδου που μπορεί να ανιχνεύσει την παρουσία και τη θέση από ένα άγγιγμα μέσα στην περιοχή της οθόνης."
 categories:
   - case-study
@@ -10,17 +10,12 @@ tags:
   - screen
 
 gallery:
-  - image_url: /images/arduino_uno.jpg
-    caption: "Υπάρχουν πάρα πολλά είδη Arduino τα οποία εξυπηρετούν διαφορετικές ανάγκες."
-  - image_url: /images/arduino-lilypad.jpg
-    caption: "Το Arduino Lilypad σχεδιάστηκε έτσι ώστε να διευκολύνει το ράψιμό του σε υφάσματα."
-  - image_url: /images/arduino-shield.jpg
-    caption: "Η επέκταση με shields επιτρέπει στο βασικό Arduino να αποκτήσει νέες δυνατότητες εισόδου (π.χ., joystick) και εξόδου."
-  - image_url: /images/makey_makey_front.png
-    caption: "Το Makey Makey είναι ένα Arduino που έχει οργανωθεί και προγραμματιστεί έτσι ώστε να διευκολύνει τον πειραματισμό με νέες συσκευές εισόδου."
+  - image_url: /smartphone.jpg
+    caption: "Υπάρχουν πάρα πολλές συσκευές που διατίθωνται με Touch Screen."
+    
 ---
 
-{% include_relative cs-arduino.md %}
+{% include_relative cs-touch-screen.md %}
 
 {% include slides.html %}
 
